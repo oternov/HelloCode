@@ -1,0 +1,14 @@
+C:\Users\otern\Desktop\Examples\Examples001\bin\Debug\net8.0\Examples001.exe
+C:\Users\otern\Desktop\Examples\Examples001\bin\Debug\net8.0\Examples001.deps.json
+C:\Users\otern\Desktop\Examples\Examples001\bin\Debug\net8.0\Examples001.runtimeconfig.json
+C:\Users\otern\Desktop\Examples\Examples001\bin\Debug\net8.0\Examples001.dll
+C:\Users\otern\Desktop\Examples\Examples001\bin\Debug\net8.0\Examples001.pdb
+C:\Users\otern\Desktop\Examples\Examples001\obj\Debug\net8.0\Examples001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otern\Desktop\Examples\Examples001\obj\Debug\net8.0\Examples001.AssemblyInfoInputs.cache
+C:\Users\otern\Desktop\Examples\Examples001\obj\Debug\net8.0\Examples001.AssemblyInfo.cs
+C:\Users\otern\Desktop\Examples\Examples001\obj\Debug\net8.0\Examples001.csproj.CoreCompileInputs.cache
+C:\Users\otern\Desktop\Examples\Examples001\obj\Debug\net8.0\Examples001.dll
+C:\Users\otern\Desktop\Examples\Examples001\obj\Debug\net8.0\refint\Examples001.dll
+C:\Users\otern\Desktop\Examples\Examples001\obj\Debug\net8.0\Examples001.pdb
+C:\Users\otern\Desktop\Examples\Examples001\obj\Debug\net8.0\Examples001.genruntimeconfig.cache
+C:\Users\otern\Desktop\Examples\Examples001\obj\Debug\net8.0\ref\Examples001.dll
